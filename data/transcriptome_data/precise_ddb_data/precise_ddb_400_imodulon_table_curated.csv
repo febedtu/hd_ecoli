@@ -1,0 +1,267 @@
+iModulon,auto_annotation,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,single_gene,enrichment_category,system_category,functional_category,custom_annotation,P1k,P1k_corr,explained_variance
+BluR+MarA,BluR,BluR,3.82E-13,9.77E-09,0.8,1,0.888888889,4,4,5,1,,Regulatory,Stress Responses,Extracellular Structures,Stress,BluR+MarA,0.895458008,0.002323249
+GadXW-2,GadX/AidB,GadX/AidB,4.83E-31,6.17E-26,0.833333333,0.454545455,0.588235294,15,33,18,2,,Regulatory,Stress Responses,Envelope Stress,Stress,GadXW-2,0.960158364,0.018746589
+BW25113,MhpR/FabR,MhpR/FabR,1.96E-13,2.50E-08,0.285714286,0.75,0.413793103,6,8,21,2,,Genomic,Genetic Alterations,Strain Difference,Others,BW25113,0.902042839,0.003559798
+ynfT,SG_1,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ynfT,0.775221029,0.001815159
+ymgF,SG_2,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000777787
+PaaX,PutA/PaaX,PutA/PaaX,1.84E-25,1.18E-20,0.909090909,0.625,0.740740741,10,16,11,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,PaaX,0.816528248,0.001178996
+Mannonate/Chitin,unchar_3,,,,,,,,,8,,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Mannonate/Altronate,0.608539302,0.000717514
+Thr/Ser,CadC/TdcR,CadC/TdcR,4.83E-25,3.09E-20,0.818181818,0.9,0.857142857,9,10,11,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Thr/Ser,0.867835501,0.00392755
+ygeI,SG_3,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,ygeI,0.755162596,0.000760235
+Zinc-3,SG_4,Zur,2.68E-12,3.42E-07,1,0.571428571,0.727272727,4,7,4,1,,Regulatory,Metabolism,Cofactor Metabolism,Metal/Cofactor Metabolism,,,0.000547414
+Cold Shock,SG_5,,,,,,,,,3,,,Biological,Stress Responses,Temperature Shock,Stress,Cold Shock,0.438490091,0.003807602
+ymcE,SG_6,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ymcE,0.843207487,0.002263066
+gnd KO,SG_7,,,,,,,,,5,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,gnd KO,0.793298483,0.000392556
+nquinone ALE 3,unchar_8,,,,,,,,,37,,,Genomic,ALE Effects,Energy Metabolism,Others,nquinone ALE 3,0.854410087,0.002007869
+GlcC,IHF+GlcC,IHF+GlcC,0,0,1,1,1,6,6,6,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,GlcC,0.885928311,0.009050715
+ynfN,SG_8,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ynfN,0.786358943,0.001498889
+Putrescine,PuuR,PuuR,0,0,1,1,1,8,8,8,1,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,Putrescine,0.938688085,0.008012897
+Leu/Val/Ile-2,AsnC/Ile-tRNA,AsnC/Ile-tRNA,1.83E-21,2.34E-16,0.888888889,0.666666667,0.761904762,8,12,9,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Leu/Val/Ile-2,0.82075306,0.003078075
+Tryptophan,TrpR/L-tryptophan,TrpR/L-tryptophan,5.28E-22,6.75E-17,1,0.615384615,0.761904762,8,13,8,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Tryptophan,0.867145065,0.002787147
+OxyR,OxyR/cpxQ,OxyR/cpxQ,7.80E-26,3.32E-21,0.533333333,0.372093023,0.438356164,16,43,30,2,,Regulatory,Stress Responses,Redox Stress,Stress,OxyR,0.967423302,0.001474313
+GlaR,H-NS+GlaR,H-NS+GlaR,1.46E-11,1.87E-06,0.555555556,0.384615385,0.454545455,5,13,9,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,GlaR,0.642567453,0.002558502
+Nac,Fur/Nac,Fur/Nac,9.67E-22,1.24E-16,0.90625,0.04730832,0.089922481,29,613,32,2,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,Nac,0.910483467,0.001552456
+cyoB/kdpE/qseF KO,HprR+Fis,HprR+Fis,1.91E-15,1.35E-11,0.714285714,1,0.833333333,5,5,7,2,,Genomic,Genetic Alterations,Energy Metabolism,Others,cyoB/kdpE/qseF KO,0.943168794,0.001244236
+yjiS,SG_9,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yjiS,0.845707185,0.000558617
+Capsule,RcsAB,RcsAB,4.12E-18,2.63E-13,0.277777778,0.625,0.384615385,10,16,36,1,,Regulatory,Stress Responses,Extracellular Structures,Stress,Capsule,0.98558204,0.004769194
+ykfI,SG_10,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000338074
+malE OE,SG_11,YidZ+CreB,0,0,1,1,1,1,1,1,2,,Genomic,Genetic Alterations,Carbon Metabolism,Others,malE OE,0.883611513,0.001035312
+MarA,Rob/EnvY,Rob/EnvY,7.02E-16,2.99E-11,0.727272727,0.25,0.372093023,8,32,11,2,,Biological,Stress Responses,Redox Stress,Stress,Salicylic Acid,0.468988484,0.001668363
+NRZ,unchar_12,,,,,,,,,7,,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,NRZ,0.723866255,0.004130046
+yjjZ,SG_12,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,yjjZ,0.869296994,0.004566574
+yqhI,SG_13,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yqhI,0.792969904,0.000946174
+FlhDC-2,FlhDC/arcZ,FlhDC/arcZ,3.30E-66,1.41E-61,0.95,0.441860465,0.603174603,38,86,40,2,,Regulatory,Stress Responses,Extracellular Structures,Stress,FlhDC-2,0.950850109,0.031630932
+PyrR,SG_14,PyrR,0,0,1,1,1,1,1,1,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,PyrR,0.868466482,0.002761805
+Zinc-1,Zur/ZntR,Zur/ZntR,5.28E-22,3.38E-17,0.615384615,1,0.761904762,8,8,13,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Zinc-1,0.970334864,0.015125835
+Thiamine-1,SgrR/Thiamine diphosphate-1,SgrR/Thiamine diphosphate,6.28E-27,8.03E-22,1,0.666666667,0.8,10,15,10,2,,Regulatory,Metabolism,Cofactor Metabolism,Metal/Cofactor Metabolism,Thiamine-1,0.94503715,0.023502826
+Copper,CueR/HprR,CueR/HprR,5.08E-18,3.25E-13,0.727272727,0.421052632,0.533333333,8,19,11,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Copper,0.984391947,0.006154942
+FDH-O,unchar_15,,,,,,,,,5,,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,FDH-O,0.687550062,0.00132291
+NtrC-3,NtrC-1,NtrC,1.11E-50,1.42E-45,0.896551724,0.52,0.658227848,26,50,29,1,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,,,0.002483739
+RpoS,RpoS+ppGpp,RpoS+ppGpp,7.21E-32,9.23E-27,0.285714286,0.333333333,0.307692308,42,126,147,2,,Regulatory,Stress Responses,Global Stress,Stress,RpoS,0.970474678,0.039011207
+XylR,XylR,XylR,4.01E-12,2.56E-07,0.416666667,0.625,0.5,5,8,12,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,,,0.000754555
+Nickel/Cobalt,unchar_16,,,,,,,,,2,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Nickel/Cobalt,0.740861936,0.003388221
+ylcI,SG_15,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ylcI,0.74863392,0.00027519
+Membrane,unchar_18,,,,,,,,,31,,,Biological,Stress Responses,Envelope Stress,Stress,Membrane,0.851635177,0.005100752
+PurR,unchar_19,,,,,,,,,6,,,Regulatory,Metabolism,Nucleotide Metabolism,Amino Acid/Nucleotide Metabolism,,,0.000611633
+pgi KO-1,SG_16,,,,,,,,,5,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,pgi KO-1,0.895268597,0.000787456
+ydfC,SG_17,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000312046
+SoxS,SoxS/HicB,SoxS/HicB,2.73E-53,3.49E-48,0.32231405,0.78,0.456140351,39,50,121,2,,Regulatory,Stress Responses,Redox Stress,Stress,SoxS,0.975046997,0.003958038
+Glyoxylate,RpoD+IclR,RpoD+IclR,3.22E-10,6.85E-06,0.75,1,0.857142857,3,3,4,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Glyoxylate,0.763963342,0.003561473
+ytiC,SG_18,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ytiC,0.855113211,0.000921111
+BtsR,SG_19,,,,,,,,,3,,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,BtsR,0.940109729,0.002204366
+trxC Del,unchar_24,,,,,,,,,3,,,Genomic,ALE Effects,Unknown,Others,trxC Del,0.851090333,0.000752343
+Nucleotide Stress,unchar_25,,,,,,,,,16,,,Biological,Stress Responses,DNA Damage,Stress,Nucleotide Stress,0.870433741,0.005905481
+NagC,NagC/NemR,NagC/NemR,6.72E-30,8.59E-25,0.8,0.355555556,0.492307692,16,45,20,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,NagC,0.877842607,0.001407062
+Sulfate,Cbl,Cbl,1.48E-22,9.44E-18,0.45,1,0.620689655,9,9,20,1,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Sulfate,0.942226245,0.001509474
+ygdT,SG_20,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ygdT,0.859639927,0.000210096
+Molybdenum,unchar_28,,,,,,,,,6,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Molybdenum,0.727935586,0.000845183
+pts KO,unchar_29,,,,,,,,,23,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,,,0.00125025
+Heat Shock,YfiE/BetI,YfiE/BetI,7.82E-11,2.50E-06,0.25,0.625,0.357142857,5,8,20,2,,Biological,Stress Responses,Temperature Shock,Stress,,,0.002062009
+PhoB-2,RpoD+PhoB-1,RpoD+PhoB,1.39E-41,1.77E-36,1,0.416666667,0.588235294,20,48,20,2,,Regulatory,Metabolism,Phosphate Metabolism,Nitrogen/Phosphate Metabolism,PhoB-2,0.896448644,0.000798743
+Suf System,IscR+OxyR,IscR+OxyR,0,0,1,1,1,6,6,6,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Suf System,0.841451981,0.006100581
+Potassium,unchar_30,,,,,,,,,5,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Potassium,0.897617535,0.000647255
+menF KO,unchar_31,,,,,,,,,7,,,Genomic,Genetic Alterations,Cofactor Metabolism,Others,menF KO,0.859863226,0.000592287
+crp KO-1,unchar_32,,,,,,,,,27,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,crp KO-1,0.917321105,0.008883448
+ArcA,GalR/ArcA,GalR/ArcA,2.01E-36,1.28E-31,0.578947368,0.183333333,0.278481013,44,240,76,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,ArcA,0.92086425,0.011020135
+SSW SNPs,unchar_33,,,,,,,,,28,,,Genomic,Genetic Alterations,ALE Effects,Others,SSW SNPs,0.877843071,0.001016229
+ldrC,SG_21,rdlC,0,0,1,1,1,1,1,1,1,TRUE,Technical,Single Gene,Unknown,Single Gene,ldrC,0.89388332,0.000944812
+pyrL,SG_22,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,pyrL,0.80434077,0.002104503
+Biotin,BirA,BirA,1.91E-15,1.22E-10,0.714285714,1,0.833333333,5,5,7,1,,Regulatory,Metabolism,Cofactor Metabolism,Metal/Cofactor Metabolism,Biotin,0.889296988,0.004094766
+xisR,SG_23,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,xisR,0.729178005,0.000345892
+ROS TALE Del-2,Spermidine,Spermidine,2.29E-14,2.44E-10,0.5,1,0.666666667,5,5,10,1,,Genomic,ALE Effects,Unknown,Others,ROS TALE Del-2,0.9495788,0.00186578
+ytiD,SG_24,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ytiD,0.84229174,0.000640755
+Osmoprotectant-1,unchar_37,,,,,,,,,3,,,Regulatory,Stress Responses,Envelope Stress,Stress,Osmoprotectant-1,0.836778492,0.003639244
+Crp-1,GatR/Mlc,GatR/Mlc,3.23E-20,2.06E-15,0.416666667,0.625,0.5,10,16,24,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Crp-1,0.927209825,0.010602462
+YgeV,unchar_38,,,,,,,,,15,,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,YgeV,0.874233959,0.002001518
+ykgR,SG_25,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ykgR,0.901571823,0.001830059
+ROS TALE Del-1,unchar_40,,,,,,,,,14,,,Genomic,ALE Effects,Unknown,Others,ROS TALE Del-1,0.954789636,0.004259755
+ghoT,SG_26,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ghoT,0.79641676,0.000575209
+DhaR,DhaR/Cra,DhaR/Cra,1.37E-14,1.75E-09,0.818181818,0.109756098,0.193548387,9,82,11,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,DhaR,0.831809919,0.00103596
+Nickel,NikR,NikR,5.45E-16,1.74E-11,1,0.833333333,0.909090909,5,6,5,1,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Nickel,0.892797195,0.002543938
+IS Elements,unchar_42,,,,,,,,,33,,,Technical,Unknown,Unknown,Others,,,0.002995183
+pts ALE,unchar_43,,,,,,,,,70,,,Genomic,ALE Effects,Energy Metabolism,Others,pts ALE,0.892409458,0.001694887
+yafF,SG_27,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yafF,0.837914651,0.000194738
+DNA Damage,YbaO/LexA,YbaO/LexA,1.06E-34,6.79E-30,0.904761905,0.31147541,0.463414634,19,61,21,2,,Regulatory,Stress Responses,DNA Damage,Stress,DNA Damage,0.922724879,0.001635616
+ldrD,SG_28,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,ldrD,0.841178246,0.000379591
+Alanine,SG_29,,,,,,,,,3,,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Alanine,0.82497184,0.006028387
+Acid Shock RNA,SG_30,,,,,,,,,3,,,Biological,Stress Responses,Acid Stress,Stress,Acid Shock RNA,0.862567525,0.00116596
+Glutamine,NtrC-2,NtrC,2.06E-12,1.32E-07,1,0.12,0.214285714,6,50,6,1,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,Glutamine,0.722061161,0.001767777
+ypjK,SG_31,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ypjK,0.709183271,0.000593336
+ykfF,SG_32,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000382379
+RpoH,RpoH/GntR,RpoH/GntR,2.33E-50,2.98E-45,0.880952381,0.245033113,0.383419689,37,151,42,2,,Regulatory,Stress Responses,Temperature Shock,Stress,RpoH,0.946643212,0.006029258
+Magnesium,PhoP/EcpR,PhoP/EcpR,1.08E-19,1.38E-14,0.428571429,0.245901639,0.3125,15,61,35,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Magnesium,0.828809136,0.001291713
+arcA KO,SG_33,,,,,,,,,1,,,Genomic,Genetic Alterations,Energy Metabolism,Others,arcA KO,0.847141598,0.000444492
+ypiJ,SG_34,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ypjJ,0.801088729,0.000221394
+ppGpp,ppGpp/UTP,ppGpp/UTP,5.39E-38,6.89E-33,0.886075949,0.077433628,0.14242116,70,904,79,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,ppGpp,0.908044704,0.020793703
+FliA-1,FliA/UhpA,FliA/UhpA,2.69E-58,3.44E-53,1,0.418918919,0.59047619,31,74,31,2,,Regulatory,Stress Responses,Extracellular Structures,Stress,FliA-1,0.968014251,0.026906984
+pgi KO-2,SG_35,,,,,,,,,2,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,pgi KO-2,0.790107255,0.000564453
+baeR KO,SlyA/NanR,SlyA/NanR,5.29E-11,6.76E-06,0.421052632,0.137931034,0.207792208,8,58,19,2,,Genomic,Genetic Alterations,Envelope Stress,Others,baeR KO,0.892067315,0.001314875
+efeU Activation,unchar_53,,,,,,,,,9,,,Genomic,ALE Effects,Metal Homeostasis,Others,efeU Activation,0.901704252,0.002673856
+hokA,SG_36,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,hokA,0.826027714,0.000249207
+ykfJ,SG_37,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,ykfJ,0.710524984,0.000315121
+PhoB-1,RpoD+PhoB-2,RpoD+PhoB,1.55E-16,1.98E-11,1,0.166666667,0.285714286,8,48,8,2,,Regulatory,Metabolism,Phosphate Metabolism,Nitrogen/Phosphate Metabolism,PhoB-1,0.937321031,0.000845477
+Lactate,LldR,LldR,0,0,1,1,1,3,3,3,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Lactate,0.787548183,0.001056047
+FHL,RpoN+FhlA,RpoN+FhlA,6.29E-23,4.02E-18,1,0.333333333,0.5,10,30,10,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,FHL,0.762612017,0.000689349
+FlhDC-1,FliA/FlhDC,FliA/FlhDC,9.54E-37,1.22E-31,0.838709677,0.213114754,0.339869281,26,122,31,2,,Regulatory,Stress Responses,Extracellular Structures,Stress,FlhDC-1,0.818448749,0.001915294
+Tyr/Trp/Phe,TyrR/Trp-tRNA,TyrR/Trp-tRNA,2.13E-22,2.73E-17,0.9,0.529411765,0.666666667,9,17,10,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Tyr/Trp/Phe,0.906887469,0.001515006
+Fur-3,unchar_56,,,,,,,,,5,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,,,0.002607891
+e14 Del,unchar_57,,,,,,,,,13,,,Genomic,ALE Effects,Unknown,Others,e14 Del,0.930288542,0.002764408
+Iron Uptake-1,unchar_58,,,,,,,,,15,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Iron Uptake-1,0.659791119,0.001290029
+RhaS,RhaS,RhaS,3.63E-18,9.28E-14,0.75,1,0.857142857,6,6,8,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,RhaS,0.959142037,0.004814715
+Sialic Acid,LysR/NanR,LysR/NanR,5.98E-28,7.65E-23,1,0.769230769,0.869565217,10,13,10,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Sialic Acid,0.823987817,0.00236577
+Glutamate,unchar_59,,,,,,,,,9,,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,,,0.001266683
+ydfA,SG_38,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ydfA,0.803148815,0.000421758
+ydaG,SG_39,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ydaG,0.865043009,0.000903185
+yahM,SG_40,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,yahM,0.769883793,0.000490491
+Fur-2,RpoD+Fur,RpoD+Fur,2.38E-33,3.04E-28,0.65,0.242990654,0.353741497,26,107,40,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Fur-2,0.915372532,0.009716362
+yjhZ,SG_41,,,,,,,,,4,,TRUE,Technical,Single Gene,Unknown,Single Gene,yjhZ,0.729422815,0.00030261
+kilR,SG_42,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,kilR,0.77383578,0.001001485
+Leu/Val/Ile-1,unchar_65,,,,,,,,,3,,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Leu/Val/Ile-1,0.766198419,0.000856819
+YciT,unchar_66,,,,,,,,,9,,,Regulatory,Unknown,Unknown,Others,YciT,0.761399807,0.000369214
+PlaR,PlaR,PlaR,2.30E-29,7.35E-25,0.909090909,1,0.952380952,10,10,11,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,PlaR,0.951430282,0.000672347
+ybfQ,SG_43,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ybfQ,0.742677442,0.000294692
+xisD,SG_44,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,xisD,0.802700948,0.000398564
+cspH,SG_45,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,cspH,0.815836274,0.000795381
+yqgD,SG_46,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yqgD,0.759389516,0.000420198
+CCK-PGI Del,RacR,RacR,1.63E-12,2.09E-07,0.333333333,0.833333333,0.476190476,5,6,15,1,,Genomic,ALE Effects,Unknown,Others,CCK-PGI Del,0.846019424,0.000660763
+ROS TALE Amp,unchar_71,,,,,,,,,10,,,Genomic,ALE Effects,Unknown,Others,ROS TALE Amp,0.901652612,0.003662864
+ynfQ,SG_47,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,ynfQ,0.773962051,0.001370921
+FucR/ExuR,FucR/ExuR,FucR/ExuR,9.21E-26,1.18E-20,0.733333333,0.647058824,0.6875,11,17,15,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,FucR/ExuR,0.927626385,0.002083674
+Efflux Pump,unchar_73,,,,,,,,,2,,,Biological,Stress Responses,Resistance,Stress,Efflux Pump,0.732648975,0.000796333
+Nucleoside,CytR/L-tryptophan,CytR/L-tryptophan,8.92E-28,1.14E-22,0.6,0.8,0.685714286,12,15,20,2,,Regulatory,Metabolism,Nucleotide Metabolism,Amino Acid/Nucleotide Metabolism,CytR,0.618649476,0.004292665
+Thiamine-2,SgrR/Thiamine diphosphate-2,SgrR/Thiamine diphosphate,5.71E-12,7.29E-07,0.714285714,0.333333333,0.454545455,5,15,7,2,,Biological,Metabolism,Cofactor Metabolism,Metal/Cofactor Metabolism,Thiamine-2,0.805879208,0.003363504
+Leucine,RpoD+Leu-tRNA,RpoD+Leu-tRNA,5.99E-17,7.65E-12,1,0.545454545,0.705882353,6,11,6,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Leucine,0.838379938,0.003625915
+FadR,FadR,FadR,4.36E-21,2.79E-16,0.9,0.409090909,0.5625,9,22,10,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,FadR,0.835550246,0.003799635
+LPS,unchar_74,,,,,,,,,44,,,Biological,Stress Responses,Extracellular Structures,Stress,LPS,0.898122925,0.005085046
+ymdG,SG_48,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ymdG,0.85760758,0.000400141
+Histidine,His-tRNA,His-tRNA,3.69E-24,2.36E-19,0.888888889,1,0.941176471,8,8,9,1,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Histidine,0.941012442,0.00207133
+Metal-related,SG_49,,,,,,,,,7,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,,,0.000564304
+Cra,Cra,Cra,1.17E-18,1.49E-13,0.75,0.153846154,0.255319149,12,78,16,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Cra,0.941656605,0.003307365
+rcbA,SG_50,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,rcbA,0.751540784,0.000842967
+Curli-1,OmpR+rydC,OmpR+rydC,3.22E-10,2.84E-07,1,0.75,0.857142857,3,4,3,2,,Regulatory,Stress Responses,Extracellular Structures,Stress,Curli-1,0.750796653,0.003269379
+yojO,SG_51,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yojO,0.833848601,0.000392795
+ydaF,SG_52,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ydaF,0.791128129,0.000775904
+UC-5,unchar_80,,,,,,,,,23,,,Unknown,Unknown,Unknown,Others,UC-5,0.842377579,0.006150717
+exoD,SG_53,,,,,,,,,4,,TRUE,Technical,Single Gene,Unknown,Single Gene,exoD,0.767407011,0.000217611
+yffM,SG_54,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,yffM,0.709629272,0.000236833
+NrdR,NrdR,NrdR,1.09E-17,6.96E-13,1,0.666666667,0.8,6,9,6,1,,Regulatory,Metabolism,Nucleotide Metabolism,Amino Acid/Nucleotide Metabolism,NrdR,0.834587816,0.005634791
+Fe-S Cluster,ryhB/GntR,ryhB/GntR,7.78E-13,9.95E-08,0.727272727,0.111111111,0.192771084,8,72,11,2,,Regulatory,Metabolism,Cofactor Metabolism,Metal/Cofactor Metabolism,Fe-S Cluster,0.898418268,0.001936525
+essQ,SG_55,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,essQ,0.757416248,0.000975342
+yqfG,SG_56,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yqfG,0.84454896,0.000280711
+cydB/appC KO,unchar_85,,,,,,,,,14,,,Genomic,Genetic Alterations,Energy Metabolism,Others,cydB/appC KO,0.898165754,0.001177636
+icdC,SG_57,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,icdC,0.822276545,0.000466729
+luxS KO,SG_58,,,,,,,,,5,,,Genomic,Genetic Alterations,Quorum Sensing,Others,luxS KO,0.770539751,0.00054309
+Purine,PurR/CadC,PurR/CadC,1.22E-31,1.56E-26,0.653846154,0.485714286,0.557377049,17,35,26,2,,Regulatory,Metabolism,Nucleotide Metabolism,Amino Acid/Nucleotide Metabolism,Purine,0.938771304,0.008013529
+BasR,BasR,BasR,2.58E-20,3.30E-15,0.588235294,0.454545455,0.512820513,10,22,17,1,,Regulatory,Stress Responses,Extracellular Structures,Stress,BasR,0.919753303,0.000889413
+GlpR,GlpR-1,GlpR,0,0,1,1,1,9,9,9,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,GlpR,0.953092962,0.007009955
+ydfK,SG_59,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000431029
+UC-2,unchar_89,,,,,,,,,32,,,Unknown,Unknown,Unknown,Others,UC-2,0.9309306,0.003075198
+Translation,DksA/RpsR-RpsF,DksA/RpsR-RpsF,5.07E-74,6.48E-69,0.905660377,0.413793103,0.568047337,48,116,53,2,,Regulatory,Translation,Translation,Stress,Translation,0.899880516,0.006806487
+yfdT,SG_60,,,,,,,,,4,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000276414
+yniD,SG_61,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yniD,0.800184652,0.000409974
+LdhA,unchar_92,,,,,,,,,15,,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,,,0.006193525
+Zinc-2,SG_62,,,,,,,,,2,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Zinc-2,0.889943509,0.000717723
+Sugar Diacid,CdaR,CdaR,1.93E-25,2.47E-20,0.75,1,0.857142857,9,9,12,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Sugar Diacid,0.953905269,0.001931034
+UC-1,unchar_94,,,,,,,,,35,,,Unknown,Unknown,Unknown,Others,UC-1,0.827971722,0.005056801
+MetJ,MetJ/IlvY,MetJ/IlvY,2.82E-26,3.60E-21,0.571428571,0.705882353,0.631578947,12,17,21,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,MetJ,0.946287822,0.007089658
+Sorbitol,SrlR,SrlR,1.91E-15,2.44E-11,1,0.714285714,0.833333333,5,7,5,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Sorbitol,0.877206571,0.003086301
+Dipeptide,gcvB+IHF,gcvB+IHF,5.35E-11,3.42E-06,0.384615385,0.454545455,0.416666667,5,11,13,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,,,0.002581285
+Curli-2,CsgD,CsgD,1.35E-12,8.32E-08,0.75,0.214285714,0.333333333,6,28,8,1,,Regulatory,Stress Responses,Extracellular Structures,Stress,Curli-2,0.745013514,0.002349233
+tfaX,SG_63,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.001379523
+YmfT,unchar_96,,,,,,,,,15,,,Regulatory,Stress Responses,DNA Damage,Stress,YmfT,0.89950931,0.001800332
+YgbI,unchar_97,,,,,,,,,11,,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,YgbI,0.911158121,0.000520046
+ymgI,SG_64,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ymgI,0.835226407,0.000608006
+CpxR,CpxR/H;,CpxR/H;,7.08E-27,3.02E-22,0.407407407,0.31884058,0.357723577,22,69,54,2,,Regulatory,Stress Responses,Envelope Stress,Stress,CpxR,0.936683447,0.002271425
+Anaerobic,Fnr/TtdR,Fnr/TtdR,4.45E-12,7.62E-08,0.465116279,0.0625,0.110192837,20,320,43,2,,Biological,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,,,0.017041558
+entC/ubiC KO,unchar_99,,,,,,,,,8,,,Genomic,Genetic Alterations,Energy Metabolism,Others,entC/ubiC KO,0.876519814,0.000964303
+GadXW-1,GadW/AidB,GadW/AidB,5.53E-20,7.07E-15,0.8,0.571428571,0.666666667,8,14,10,2,,Regulatory,Stress Responses,Envelope Stress,Stress,GadXW-1,0.716211677,0.001090597
+Lrp,ipeX/Lrp,ipeX/Lrp,5.47E-25,2.23E-20,0.838709677,0.08,0.146067416,26,325,31,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Lrp,0.918040652,0.008195517
+Fimbriae,QseB+Lrp,QseB+Lrp,1.73E-21,2.21E-16,1,0.875,0.933333333,7,8,7,2,,Regulatory,Stress Responses,Extracellular Structures,Stress,Fimbriae,0.967839378,0.002914994
+Propionate,PrpR,PrpR,0,0,1,1,1,5,5,5,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Propionate,0.891378683,0.005105113
+ubiC/menF KO,SG_65,,,,,,,,,6,,,Genomic,Genetic Alterations,Energy Metabolism,Others,ubiC/menF KO,0.85439122,0.000569438
+RpoE,rseX/RpoE,rseX/RpoE,1.40E-19,1.79E-14,0.823529412,0.111111111,0.195804196,14,126,17,2,,Regulatory,Stress Responses,Temperature Shock,Stress,RpoE,0.854075126,0.001133725
+yeeT,SG_66,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000333189
+yqgC,SG_67,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,SSW SNPs,0.304459554,0.000224894
+YieP,YieP/ArrS,YieP/ArrS,2.07E-19,2.65E-14,0.7,0.875,0.777777778,7,8,10,2,,Regulatory,Stress Responses,Envelope Stress,Stress,YieP,0.909759725,0.001053748
+NtrC-2,SG_68,NtrC,1.71E-13,1.09E-08,0.875,0.14,0.24137931,7,50,8,1,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,NtrC-2,0.866884787,0.002048188
+AtoC,AtoC,AtoC,0,0,1,1,1,4,4,4,1,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,AtoC,0.842411028,0.000421679
+Phage Shock,RpoN+PspF,RpoN+PspF,5.45E-16,3.48E-11,1,0.833333333,0.909090909,5,6,5,2,,Regulatory,Stress Responses,Phage Shock,Stress,Phage Shock,0.670453066,0.002272701
+AllR/AraC,AllR/AraC,AllR/AraC,8.13E-33,1.04E-27,0.833333333,0.555555556,0.666666667,15,27,18,2,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,AllR/AraC,0.899017828,0.001215085
+sdh KO,unchar_103,,,,,,,,,5,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,sdh KO,0.951567627,0.004209589
+PAL 26 Del,unchar_104,,,,,,,,,40,,,Genomic,ALE Effects,Unknown,Others,PAL 26 Del,0.959613827,0.001243665
+qseC KO,unchar_105,,,,,,,,,5,,,Genomic,Genetic Alterations,Quorum Sensing,Others,qseC KO,0.761643832,0.000601962
+YcjW,YcjW/MetJ,YcjW/MetJ,1.18E-17,3.00E-13,0.705882353,0.141176471,0.235294118,12,85,17,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,YcjW,0.967633487,0.000495642
+FDH-N/NRA,RpoD+NarL-1,RpoD+NarL,1.12E-14,1.43E-09,0.9,0.09375,0.169811321,9,96,10,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,FDH-N/NRA,0.861895915,0.00312913
+essD,SG_69,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,essD,0.664025104,0.000693516
+Fnr-1,NarL/FhlA,NarL/FhlA,1.22E-31,1.56E-26,0.630434783,0.189542484,0.291457286,29,153,46,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,Fnr-1,0.868121245,0.012060307
+intG,SG_70,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,intG,0.732525567,0.000301678
+Molybdopterin,CueR+Molybdopterin,CueR+Molybdopterin,1.91E-12,2.71E-08,0.8,0.8,0.8,4,5,5,2,,Regulatory,Metabolism,Cofactor Metabolism,Metal/Cofactor Metabolism,Molybdopterin,0.781603444,0.001233369
+Resistance,unchar_108,,,,,,,,,51,,,Regulatory,Stress Responses,Envelope Stress,Stress,Resistance,0.900934306,0.00398357
+ydfV,SG_71,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000451372
+pinH,SG_72,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000821496
+ynaM,SG_73,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ynaM,0.818993911,0.001036517
+Lysine/T2SS,NadR/ArgP,NadR/ArgP,1.11E-15,1.42E-10,0.3,0.473684211,0.367346939,9,19,30,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Lysine/T2SS,0.877444416,0.001980372
+CysB-1,CysB,CysB,7.29E-28,8.24E-23,0.516129032,0.484848485,0.5,16,33,31,1,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,CysB-1,0.965485469,0.006836325
+Gluconate,GntR/SdhX,GntR/SdhX,3.77E-30,4.82E-25,0.923076923,0.666666667,0.774193548,12,18,13,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Gluconate,0.938824327,0.001006529
+Fur-1,fnrS/Fur,fnrS/Fur,4.64E-29,5.93E-24,0.814814815,0.156028369,0.261904762,22,141,27,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Fur-1,0.931469614,0.024572996
+yjhE,SG_74,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yjhE,0.723729563,0.000287413
+NO Stress,NarP/MetR,NarP/MetR,1.76E-12,1.13E-07,0.777777778,0.125,0.215384615,7,56,9,2,,Regulatory,Stress Responses,Redox Stress,Stress,NO Stress,0.871058362,0.000908411
+ydfW,SG_75,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ydfW,0.864719533,0.000270275
+Ribose,dsrA+RbsR,dsrA+RbsR,0,0,1,1,1,6,6,6,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Ribose,0.834529902,0.001396884
+NDH-1,ryhB+IHF,ryhB+IHF,9.20E-28,1.18E-22,1,0.55,0.709677419,11,20,11,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,NDH-1,0.894128409,0.003908409
+RhaT,SG_76,AraC/RhaS,1.22E-13,1.55E-08,0.857142857,0.25,0.387096774,6,24,7,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,,,0.001185214
+ythA,SG_77,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,ythA,0.874640211,0.000237433
+Curli-3,SG_78,,,,,,,,,2,,,Regulatory,Stress Responses,Extracellular Structures,Stress,Curli-1,0.396221033,0.001008137
+UC-3,unchar_116,,,,,,,,,86,,,Unknown,Unknown,Unknown,Others,UC-3,0.89465575,0.010789377
+Glycine,unchar_117,,,,,,,,,5,,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,Glycine,0.906664613,0.001543573
+mdtL,SG_79,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000788391
+ldrA,SG_80,rdlA,0,0,1,1,1,1,1,1,1,TRUE,Technical,Single Gene,Unknown,Single Gene,ldrA,0.852090169,0.000341187
+GalRS,GalR/DgoR,GalR/DgoR,4.39E-23,2.81E-18,0.9,0.6,0.72,9,15,10,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,GalRS,0.889446501,0.001117974
+GadX,GadX,GadX,2.45E-19,1.05E-14,0.9,0.28125,0.428571429,9,32,10,1,,Regulatory,Stress Responses,Envelope Stress,Stress,GadX,0.805760345,0.003139965
+yfaH,SG_81,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yfaH,0.771057974,0.000553394
+PTS II,Crp+SlyA,Crp+SlyA,1.92E-16,2.45E-11,1,0.259259259,0.411764706,7,27,7,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,PTS II,0.686097739,0.003098249
+nuoB KO,SG_82,,,,,,,,,3,,,Genomic,Genetic Alterations,Energy Metabolism,Others,nuoB KO,0.93056358,0.000880414
+ykfH,SG_83,,,,,,,,,7,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000433514
+ompR KO,unchar_122,,,,,,,,,8,,,Genomic,Genetic Alterations,Envelope Stress,Others,ompR KO,0.752078053,0.002503483
+IS1,unchar_123,,,,,,,,,7,,,Genomic,Unknown,Unknown,Others,IS1,0.693503341,0.001576206
+aaeX,SG_84,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,aaeX,0.771255429,0.000302777
+aaaD,SG_85,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,aaaD,0.735937144,0.000329856
+PAL Amp,unchar_126,,,,,,,,,98,,,Genomic,ALE Effects,Unknown,Others,PAL Amp,0.899686134,0.000833626
+thrA KO,SG_86,IlvY/Thr-tRNA,5.73E-12,7.32E-07,0.666666667,0.8,0.727272727,4,5,6,2,,Genomic,Genetic Alterations,Amino Acid Metabolism,Others,thrA KO,0.881940968,0.001574135
+Crp-2,unchar_127,,,,,,,,,70,,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,Crp-2,0.882347876,0.016679608
+XylR/CsqR,XylR/CsqR,XylR/CsqR,5.49E-28,7.01E-23,0.5,0.923076923,0.648648649,12,13,24,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,,,0.001413204
+Cellulose,unchar_128,,,,,,,,,81,,,Biological,Stress Responses,Extracellular Structures,Stress,Cellulose,0.864780935,0.007166545
+ArgR,AsnC/ArgR,AsnC/ArgR,4.23E-38,2.70E-33,0.913043478,0.328125,0.482758621,21,64,23,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,ArgR,0.965161756,0.006321543
+yoaI,SG_87,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yoaI,0.897492331,0.000560245
+Ferric Citrate,Fur+FecI,Fur+FecI,5.45E-16,7.74E-12,0.833333333,1,0.909090909,5,5,6,2,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Ferric Citrate,0.844878084,0.00247578
+yoaG,SG_88,,,,,,,,,2,,TRUE,Technical,Single Gene,Unknown,Single Gene,Nitrate/Nitrite-2,0.83533968,0.000498661
+flhDC,OmpR+QseB,OmpR+QseB,0,0,1,1,1,2,2,2,2,,Regulatory,Stress Responses,Extracellular Structures,Stress,flhDC,0.765177552,0.000928852
+ascB,unchar_131,,,,,,,,,11,,,Biological,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,,,0.001161477
+yfjM,SG_89,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000321487
+EvgA,AppY/EvgA,AppY/EvgA,3.71E-29,4.75E-24,0.736842105,0.518518519,0.608695652,14,27,19,2,,Regulatory,Stress Responses,Envelope Stress,Stress,EvgA,0.934138672,0.002221502
+yzfA,SG_90,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yzfA,0.789575743,0.000276378
+NtrC-1,RpoN+RpoS,RpoN+RpoS,4.37E-22,5.59E-17,1,0.409090909,0.580645161,9,22,9,2,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,NtrC-1,0.52285219,0.004317813
+MalT,RpoD+MalT,RpoD+MalT,0,0,1,1,1,9,9,9,2,,Regulatory,Metabolism,Carbon Metabolism,Carbon/Energy Metabolism,MalT,0.914848637,0.010378015
+Pyrimidine,PurR/UTP,PurR/UTP,4.00E-16,5.11E-11,0.6,0.25,0.352941176,9,36,15,2,,Regulatory,Metabolism,Nucleotide Metabolism,Amino Acid/Nucleotide Metabolism,Pyrimidine,0.956680084,0.017040104
+Microaerobic,Fis+IscR,Fis+IscR,9.07E-19,9.66E-15,0.857142857,1,0.923076923,6,6,7,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,Microaerobic,0.786642753,0.002525946
+Electron Transfer,RstA/NarP,RstA/NarP,4.07E-47,5.21E-42,1,0.393442623,0.564705882,24,61,24,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,Electron Transfer,0.918674026,0.004700033
+Quorum Sensing,UvrY/LsrR,UvrY/LsrR,1.38E-28,1.76E-23,1,0.833333333,0.909090909,10,12,10,2,,Regulatory,Stress Responses,Quorum Sensing,Stress,Quorum Sensing,0.957649461,0.002960989
+tpiA KO,unchar_134,,,,,,,,,12,,,Genomic,Genetic Alterations,Carbon Metabolism,Others,tpiA KO,0.801306804,0.000480211
+Hot TALE 16,unchar_135,,,,,,,,,22,,,Genomic,ALE Effects,Unknown,Others,Hot TALE 16,0.623760561,0.000578828
+Nitrate/Nitrite-1,RpoD+NarL-2,RpoD+NarL,2.55E-16,3.26E-11,0.909090909,0.104166667,0.186915888,10,96,11,2,,Regulatory,Metabolism,Nitrogen Metabolism,Nitrogen/Phosphate Metabolism,Nitrate/Nitrite-1,0.833348851,0.001363211
+crp KO-2,GlpR-2,GlpR,2.40E-13,1.02E-08,0.714285714,0.555555556,0.625,5,9,7,1,,Genomic,Genetic Alterations,Carbon Metabolism,Others,crp KO-2,0.717524394,0.001312179
+lsrB KO,RpoS+LsrR,RpoS+LsrR,1.34E-11,1.71E-06,0.8,0.571428571,0.666666667,4,7,5,2,,Genomic,Genetic Alterations,Quorum Sensing,Others,lsrB KO,0.909231855,0.000290084
+CueR,unchar_136,,,,,,,,,3,,,Regulatory,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,CueR,0.759686197,0.000745635
+ynfO,SG_91,,,,,,,,,3,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000540553
+Succinate,RpoS+IHF,RpoS+IHF,3.46E-12,4.42E-07,0.857142857,0.15,0.255319149,6,40,7,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,Succinate,0.715512882,0.003963209
+Cytochrome c,unchar_138,,,,,,,,,6,,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,Cytochrome c,0.750398447,0.001887713
+CysB-2,CysB/CsrA,CysB/CsrA,5.83E-14,7.46E-09,0.727272727,0.150943396,0.25,8,53,11,2,,Regulatory,Metabolism,Amino Acid Metabolism,Amino Acid/Nucleotide Metabolism,CysB-2,0.790245899,0.00084565
+BaeR+CpxR,LysR/BaeR,LysR/BaeR,1.67E-15,2.14E-10,0.75,0.545454545,0.631578947,6,11,8,2,,Regulatory,Stress Responses,Envelope Stress,Stress,,,0.00053092
+Periplasm Redox,SG_92,,,,,,,,,7,,,Biological,Stress Responses,Redox Stress,Stress,Periplasm Redox,0.757954284,0.000876197
+IS5,unchar_140,,,,,,,,,7,,,Genomic,Genetic Alterations,Genome Reduction,Others,IS5,0.654268363,0.002028275
+paaB,SG_93,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,,,0.000190426
+Iron Uptake-2,unchar_142,,,,,,,,,4,,,Biological,Stress Responses,Metal Homeostasis,Metal/Cofactor Metabolism,Iron Uptake-2,0.717591968,0.005407797
+cyoB/ndh/nuoB KO,unchar_143,,,,,,,,,2,,,Genomic,Genetic Alterations,Energy Metabolism,Others,cyoB/ndh/nuoB KO,0.822964322,0.000462916
+Fnr-2,YiaU/Fnr,YiaU/Fnr,4.60E-11,4.80E-07,0.403846154,0.064814815,0.111702128,21,324,52,2,,Regulatory,Metabolism,Energy Metabolism,Carbon/Energy Metabolism,Fnr-2,0.871022847,0.007570063
+yhfL,SG_94,,,,,,,,,1,,TRUE,Technical,Single Gene,Unknown,Single Gene,yhfL,0.726964437,0.001230891
+UC-4,unchar_145,,,,,,,,,16,,,Unknown,Unknown,Unknown,Others,UC-4,0.822717519,0.001636828
